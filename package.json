@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/mdrezuanislamridoy/meeting-app.git"
   },
+  "engines": {
+    "node": "22.16.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
